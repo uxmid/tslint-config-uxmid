@@ -1,0 +1,32 @@
+{
+    "name": "tslint-config-uxmid",
+    "version": "1.0.0",
+    "description": "A TSLint config for Uxmid Code Guide",
+    "author": "jason <jasonsoop@gmail.com>",
+    "main": "tslint.js",
+    "files":
+    [
+        "tslint.js",
+        "README.md",
+        "LICENSE"
+    ],
+    "repository":
+    {
+        "type": "git",
+        "url": "git://github.com/uxmid/tslint-config-uxmid.git"
+    },
+    "homepage": "https://github.com/uxmid/tslint-config-uxmid",
+    "keywords":
+    [
+        "tslint",
+        "ts-lint",
+        "config",
+        "typescript",
+        "uxmid"
+    ],
+    "license": "MIT",
+    "bugs":
+    {
+        "url": "https://github.com/uxmid/tslint-config-uxmid/issues"
+    }
+}
