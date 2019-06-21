@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/tslint-config-uxmid.svg?style=flat)](https://www.npmjs.com/package/tslint-config-uxmid)
 
-> A [TSLint config](https://palantir.github.io/tslint/usage/tslint-json/) for [Uxmid Code Guide](https://github.com/uxmid/code-guide)
+> A [TSLint config](https://palantir.github.io/tslint/rules/) for [Uxmid Code Guide](https://github.com/uxmid/FE-code-guide)
 
 ## Installation
 
